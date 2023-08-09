@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Button",
+    "baogom": "Nạp tiền",
+    "noidung": "Hướng dẫn nạp tiền, Chuyển nhầm nội dung, Lỗi không nạp tiền không auto"
+  },
+  {
+    "type": "Text",
+    "baogom": "Hướng dẫn nạp tiền",
+    "noidung": "Bạn xem hướng dẫn tại link: https://tangtuongtacbysun.gitbook.io/auto-tds-va-ttc-by-sun/huong-dan-nap-tien"
+  },
+  {
+    "type": "Text",
+    "baogom": "Chuyển nhầm nội dung",
+    "noidung": "Bạn vui lòng chụp giúp mình bill chuyển tiền thành công đó vào inbox của mình nhé"
+  },
+  {
+    "type": "Text",
+    "baogom": "Lỗi không nạp tiền không auto",
+    "noidung": "Bạn vui lòng chụp giúp mình bill chuyển tiền thành công đó vào inbox của mình nhé"
+  }
+]
