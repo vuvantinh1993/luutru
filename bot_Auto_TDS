@@ -2,21 +2,41 @@
   {
     "type": "Button",
     "baogom": "Nạp tiền",
-    "noidung": "Hướng dẫn nạp tiền, Chuyển nhầm nội dung, Lỗi không nạp tiền không auto"
+    "noidung": "Hướng dẫn nạp tiền, Chuyển nhầm nội dung, Lỗi không nạp tiền không vào"
   },
   {
     "type": "Text",
     "baogom": "Hướng dẫn nạp tiền",
-    "noidung": "B1: Đăng kí tài khoản web https://tangtuongtacbysun.com/\nB2: Đăng nhập và chọn mục Nạp Tiền\nB3: Chọn hình thước nạp qua momo hoặc ngân hàng. Vui lòng điền đúng nội dung khi chuyển tiền (tối thiếu 10k)"
+    "noidung": "B1: Đăng kí tài khoản web https://tangtuongtacbysun.com/\nB2: Đăng nhập và chọn mục Nạp Tiền\nB3: Chọn hình thức nạp qua momo hoặc ngân hàng. Vui lòng điền đúng nội dung khi chuyển tiền (tối thiếu 10k). nên quyét mã Qr để tránh sai nội dung."
   },
   {
     "type": "Text",
     "baogom": "Chuyển nhầm nội dung",
-    "noidung": "Bạn vui lòng chụp giúp mình bill chuyển tiền thành công đó vào inbox của mình nhé"
+    "noidung": "Bạn vui lòng chụp giúp mình bill chuyển tiền thành công đó vào inbox của mình nhé. Mình onl sẽ hỗ trơ."
   },
   {
     "type": "Text",
     "baogom": "Lỗi không nạp tiền không auto",
-    "noidung": "Bạn vui lòng chụp giúp mình bill chuyển tiền thành công đó vào inbox của mình nhé"
+    "noidung": "Nếu bạn nạp tiền đã quá 10 phút mà tiền không được cộng vào tài khoản. Bạn vui lòng chụp giúp mình bill chuyển tiền thành công đó vào inbox của mình nhé. Mình onl sẽ hỗ trơ."
+  },
+  {
+    "type": "Text",
+    "baogom": "Mua key, Kích hoạt key",
+    "noidung": "B1: Đăng nhập trang: https://tangtuongtacbysun.com\nB2: Truy cập: https://tangtuongtacbysun.com/dich-vu chọn mua mới => chọn mua loại key và số lượng mình muốn => thanh toán\nB3: Vào dịch vụ đã mua https://tangtuongtacbysun.com/dich-vu/da-mua. Chọn kích hoạt key vừa mua (hình tia sét) trường hợp khi mua chọn kích hoạt luôn ở B2 thì bỏ qua bước này.\nB4: Mở lại tool để xem kết quả."
+  },
+  {
+    "type": "Text",
+    "baogom": "Hướng dẫn sử dụng",
+    "noidung": "Bạn xem ở link sau\nhttps://tangtuongtacbysun.gitbook.io/auto-tds-va-ttc-by-sun/huong-dan-su-dung-tool"
+  },
+  {
+    "type": "Text",
+    "baogom": "Các lôi có thể gặp",
+    "noidung": "Bạn xem ở link sau\nhttps://tangtuongtacbysun.gitbook.io/auto-tds-va-ttc-by-sun/cac-loi-co-the-gap"
+  },
+  {
+    "type": "Text",
+    "baogom": "Chat với bot",
+    "noidung": "Chào bạn mình là bot Sun. Rất vui được hỗ trợ bạn. Bạn hãy cho mình từ khóa lỗi để mình hỗ trợ bạn nhé.\nVí dụ khi bạn chạy tool bị lỗi: 'Đăng nhập TDS lỗi, kiểm tra lại'. thì bạn có thể lấy 1 từ khóa nào đó để mình tìm như từ khóa 'Đăng nhập TDS lỗi'.\nSau đó bạn nhắn với mình theo cú pháp \n/bot Đăng nhập TDS lỗi\n.Mình sẽ tìm kiếm câu trả lời giúp bạn."
   }
 ]
