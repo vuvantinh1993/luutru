@@ -2,7 +2,7 @@
   {
     "type": "Button",
     "baogom": "Nạp tiền",
-    "noidung": "Hướng dẫn nạp tiền, Chuyển nhầm nội dung, Lỗi nạp tiền không auto"
+    "noidung": "Hướng dẫn nạp tiền, Chuyển nhầm nội dung, Lỗi không nạp tiền không vào"
   },
   {
     "type": "Text",
@@ -16,7 +16,7 @@
   },
   {
     "type": "Text",
-    "baogom": "Lỗi không nạp tiền không auto",
+    "baogom": "Lỗi nạp tiền không vào",
     "noidung": "Nếu bạn nạp tiền đã quá 10 phút mà tiền không được cộng vào tài khoản. Bạn vui lòng chụp giúp mình bill chuyển tiền thành công đó vào inbox của mình nhé. Mình onl sẽ hỗ trơ."
   },
   {
