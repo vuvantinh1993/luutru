@@ -2,7 +2,7 @@
   {
     "type": "Button",
     "baogom": "Nạp tiền",
-    "noidung": "Hướng dẫn nạp tiền, Chuyển nhầm nội dung, Lỗi không nạp tiền không vào"
+    "noidung": "Hướng dẫn nạp tiền, Chuyển nhầm nội dung, Lỗi nạp tiền không auto"
   },
   {
     "type": "Text",
