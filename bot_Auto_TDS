@@ -12,12 +12,12 @@
   {
     "type": "Text",
     "baogom": "Chuyển nhầm nội dung",
-    "noidung": "Bạn vui lòng chụp giúp mình bill chuyển tiền thành công đó vào inbox của mình nhé. Mình onl sẽ hỗ trơ."
+    "noidung": "Bạn vui lòng gửi cho mình\n 1.chụp giúp mình bill chuyển tiền thành công chứa cả nội dung nạp sai\n2. Nội dung là chuyển nhầm nội dung\n3. tài khoản nhận tiền \n\nGửi mình theo cú pháp\n/sai_noi_dung (...nội dung cần gửi....).\n\nLưu ý chỉ tin nhắn có \"/sai_noi_dung\" mới được gửi tới admin"
   },
   {
     "type": "Text",
     "baogom": "Lỗi nạp tiền không vào",
-    "noidung": "Nếu bạn nạp tiền đã quá 10 phút mà tiền không được cộng vào tài khoản. Bạn vui lòng chụp giúp mình bill chuyển tiền thành công đó vào inbox của mình nhé. Mình onl sẽ hỗ trơ."
+    "noidung": "Nếu bạn nạp tiền đã quá 10 phút mà tiền không được cộng vào tài khoản. Bạn vui lòng gửi cho mình\n 1.Chụp giúp mình bill chuyển tiền thành công chứa cả nội dung nạp sai\n2. Nội dung là nạp tiền không auto\n\nGửi mình theo cú pháp\n/khong_auto (...nội dung cần gửi....).\n\nLưu ý chỉ tin nhắn có \"/khong_auto\" mới được gửi tới admin"
   },
   {
     "type": "Text",
@@ -31,12 +31,37 @@
   },
   {
     "type": "Text",
-    "baogom": "Các lôi có thể gặp",
+    "baogom": "Các lỗi có thể gặp",
     "noidung": "Bạn xem ở link sau\nhttps://tangtuongtacbysun.gitbook.io/auto-tds-va-ttc-by-sun/cac-loi-co-the-gap"
   },
   {
     "type": "Text",
     "baogom": "Chat với bot",
-    "noidung": "Chào bạn mình là bot Sun. Rất vui được hỗ trợ bạn. Bạn hãy cho mình từ khóa lỗi để mình hỗ trợ bạn nhé.\nVí dụ khi bạn chạy tool bị lỗi: 'Đăng nhập TDS lỗi, kiểm tra lại'. thì bạn có thể lấy 1 từ khóa nào đó để mình tìm như từ khóa 'Đăng nhập TDS lỗi'.\nSau đó bạn nhắn với mình theo cú pháp \n/bot Đăng nhập TDS lỗi\n.Mình sẽ tìm kiếm câu trả lời giúp bạn."
+    "noidung": "Chào bạn mình là bot Sun. Rất vui được hỗ trợ bạn. Bạn hãy cho mình từ khóa lỗi để mình hỗ trợ bạn nhé.\nVí dụ khi bạn chạy tool bị lỗi: 'Đăng nhập TDS lỗi, kiểm tra lại'. thì bạn có thể lấy 1 từ khóa nào đó để mình tìm như từ khóa 'Đăng nhập TDS lỗi'.\nSau đó bạn nhắn với mình theo cú pháp \n/tim_kiem Đăng nhập TDS lỗi\n.Mình sẽ tìm kiếm câu trả lời giúp bạn."
+  },
+  {
+    "type": "Button",
+    "baogom": "Phân loại và Tải tool",
+    "noidung": "Các sản phẩm đang có, Tải tool"
+  },
+  {
+    "type": "Text",
+    "baogom": "Các sản phẩm đang có",
+    "noidung": "Hiện Sun đang cũng cấp 3 sản phẩm có phí.\n\n1) Tool auto tds va ttc (Tool cày xu).\n2) Tool regnick (Tool tạo nick TDS và TTC - không phải nick facebook)\n3) Tool Change xu (Tool Chuyển xu qua lại giưuã các tài khoản TDS)"
+  },
+  {
+    "type": "Text",
+    "baogom": "Tải tool",
+    "noidung": "Link tải các tool SUN.\nhttps://tangtuongtacbysun.gitbook.io/auto-tds-va-ttc-by-sun/tai-tool"
+  },
+  {
+    "type": "Text",
+    "baogom": "Báo lỗi cho Admin",
+    "noidung": "Chào bạn mình là bot Sun. Rất vui được hỗ trợ bạn. Trước khi báo lỗi các bạn lên đọc thêm hướng dẫn sử dụng và lỗi có thể gặp xem đã có chưa nhé. Nếu chưa có vui lòng cho mình chi tiết thông tin.\n1. Lỗi bạn đang gặp phải.\n2. Account gặp lỗi (cấp full cho mình account gặp lỗi đó bao gồm cả proxy và nick tds hoặc ttc nếu có). \n\nGửi mình theo cú pháp\n/bao_loi (...nội dung báo lỗi ở đây....).\n\nLưu ý chỉ tin nhắn có \"/bao_loi\" mới được gửi tới admin"
+  },
+  {
+    "type": "Text",
+    "baogom": "Mong muốn Update",
+    "noidung": "Chào bạn mình là bot Sun. \n\nGửi mình theo cú pháp\n/update (...nội dung update ở đây....).\n\nLưu ý chỉ tin nhắn có \"/update\" mới được gửi tới admin.\nĐể tránh mất thời gian bạn vui lòng cung cấp mình đầy đủ thông tin, chi tiết và tài nguyên (fb, proxy) nếu liên quan nhé"
   }
 ]
